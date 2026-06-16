@@ -1,7 +1,5 @@
 # 🥤 NFT Energy Brand Guidelines
 
-<!-- rebuild -->
-
 > Drink it. Own it.
 >
 > Fuel the grind. Own the upside.
