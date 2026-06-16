@@ -1,57 +1,41 @@
-# 🤝 Collab Score and Community Perks
+# Brand Pillars
 
-Collab Score is a performance and reputation system within the Energy Wabbits ecosystem.
+## Ownership Beyond Consumption
 
-It reflects your consistency, staking streak, and overall ecosystem activity.
+Most energy drinks end when the can is empty.
 
-## What Builds Collab Score
+NFT Energy creates an ongoing relationship through rewards, community, and participation.
 
-Your Collab Score grows through:
-- Staking activity
-- Daily consistency
-- Participation
-- Ongoing ecosystem engagement
+---
 
-## Why Collab Score Matters
+## Every Can Unlocks Something
 
-Collab Score is used for:
+Every purchase should provide value beyond the beverage.
 
-- Leaderboard ranking
-- Community recognition
-- Ambassador qualification
-- Access to ecosystem perks
-- Competitive status
+Examples include:
 
-## Ambassador Page
+- Rewards
+- Collectibles
+- Exclusive Access
+- Community Benefits
+- Future Experiences
 
-The Ambassador Page has no entry fee.
+---
 
-Qualification is based on meeting the required **Collab Score threshold**.
+## Community Spotlight
 
-This system rewards:
-- Real participation
-- Consistent support
-- Long-term ecosystem involvement
+NFT Energy helps communities gain real-world exposure.
 
-## Community Page
+We build with communities rather than simply advertising to them.
 
-The Community Page is designed for free ecosystem interaction.
+---
 
-Users can:
-- Post
-- React
-- Comment
+## No Gatekeeping
 
-Requirements:
-- Wallet connection
-- Content moderation compliance
+No crypto knowledge required.
 
-## Purpose of the Score System
+No complicated onboarding.
 
-The Collab Score system helps Energy Wabbits reward people who truly contribute.
-
-Instead of rewarding pure speculation, it rewards:
-- Consistency
-- Activity
-- Contribution
-- Long-term involvement
+Buy a drink.
+Earn rewards.
+Join the community.
