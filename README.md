@@ -28,10 +28,6 @@ NFT Energy starts the relationship there.
 
 ## 🎯 Mission
 
-<p align="center">
-  <img src="/assets/mission-graphic.png" width="600">
-</p>
-
 Make ownership, rewards, and community participation accessible through a product people already enjoy every day.
 
 Our mission is simple:
