@@ -71,10 +71,6 @@ Lunarverse is where community members interact with the ecosystem.
 
 ## ⚡ How The Ecosystem Works
 
-<p align="center">
-  <img src="./assets/ecosystem-flow.png" width="850">
-</p>
-
 ```mermaid
 flowchart LR
 
