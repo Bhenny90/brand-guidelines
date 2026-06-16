@@ -1,9 +1,5 @@
 # 🌐 Ecosystem
 
-<p align="center">
-  <img src="./assets/ecosystem-hero.png" width="800">
-</p>
-
 ## Overview
 
 NFT Energy is more than an energy drink.
@@ -15,10 +11,6 @@ Every piece of the ecosystem works together to create value for customers, holde
 ---
 
 ## 🥤 NFT Energy
-
-<p align="center">
-  <img src="./assets/nft-energy-can.png" width="350">
-</p>
 
 The foundation of the ecosystem.
 
@@ -37,9 +29,6 @@ Every can introduces consumers to the NFT Energy ecosystem.
 
 ## 🐰 Energy Wabbits
 
-<p align="center">
-  <img src="./assets/wabbits-logo.png" width="250">
-</p>
 
 The community layer.
 
@@ -64,10 +53,6 @@ Energy Wabbits are the official NFT collection of NFT Energy.
 ---
 
 ## 🎮 Lunarverse Platform
-
-<p align="center">
-  <img src="./assets/lunarverse-platform.png" width="700">
-</p>
 
 The utility layer.
 
@@ -103,10 +88,6 @@ E --> F[Participate In Growth]
 ---
 
 ## 🔄 Ecosystem Flywheel
-
-<p align="center">
-  <img src="./assets/ecosystem-flywheel.png" width="700">
-</p>
 
 ```text
 Drinks Sold
