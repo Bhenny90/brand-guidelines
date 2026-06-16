@@ -37,7 +37,6 @@ No complicated explanation required.
 
 ## 🐰 Holder Message
 
-<img src="./assets/holder-message.png" width="100%">
 
 ### What We Want Holders To Understand
 
