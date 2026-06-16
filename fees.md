@@ -1,161 +1,66 @@
-# 💰 Energy Wabbits — Full Fee Breakdown
+# Messaging
 
-This page outlines all core fees across the Energy Wabbits ecosystem.
+## Core Message
 
----
-
-## 🔒 Staking
-
-### Stake a Wabbit
-**FREE**
-
-### Collect EP
-**FREE**
-
-### Unstake
-**FREE**
-
-> Note: 25% of your collected EP on unstake contributes to the Casino jackpot pool.
+Every can earns more than energy.
 
 ---
 
-## ⛽ The Burrow Stop (Station)
+## Customer Message
 
-All Station upgrades are paid in **EP only**.
+Buy a drink.
 
-### Upgrades
-- Partner Cans — EP only
-- Staff Levels — EP only
-- Fridge — EP only
-- Decor — EP only
+Earn rewards.
 
-### Maintenance
-- EP only
-- No SOL fee
-
-### Daily WB Claim
-**~$0.15 SOL**
-- Converted at live SOL price
-- Claim regularly to avoid waste
-- Max WB hold is **25 WB**
+Join the community.
 
 ---
 
-## ⚡ EP Boosts
+## Holder Message
 
-All boosts last **24 hours** and are priced in SOL using live conversion.
+Own a Wabbit.
 
-### Single Can
-**~$0.10 SOL**
-- Boosts 1 Wabbit
+Help shape the future.
 
-### 12-Pack
-**~$0.50 SOL**
-- Boosts 12 Wabbits
-
-### 24-Pack
-**~$0.85 SOL**
-- Boosts 24 Wabbits
-
-### Pallet
-**~$1.25 SOL**
-- Boosts your entire staked squad
+Unlock ecosystem benefits.
 
 ---
 
-## 🎰 Burrow Casino
+## Partner Message
 
-### Playing Games
-**FREE**
-- Slots
-- Roulette
-- Coinflip
+Get featured.
 
-### EP → Chips
-**1:1 rate**
-- 10% of EP goes to jackpot pool
+Reach new audiences.
 
-Examples:
-- 50 chips = 50 EP
-- 100 chips = 100 EP
-- 250 chips = 250 EP
-- 500 chips = 500 EP
-
-### WB → Chips
-**1:1 rate**
-- No fee
-
-Examples:
-- 50 WB = 50 chips
-- 100 WB = 100 chips
-- 250 WB = 250 chips
-- 500 WB = 500 chips
-
-### Chips → WB Cashout
-**~$0.25 SOL + 10% chip fee**
-
-### EP Cashout (chips → real value)
-**$1.00 SOL fee**
-
-### Daily and Weekly Limits
-- Daily cap: **500 EP**
-- Weekly cap: **2,000 EP**
-- EP chip conversion daily cap: **2,000 EP**
+Build together.
 
 ---
 
-## 🎮 Arcade
+## Approved Language
 
-### All Arcade Games
-**FREE**
+Use:
 
----
+- Earn Rewards
+- Eligible to Earn
+- Community Benefits
+- Revenue Share Eligibility
+- Rewards Program
 
-## 🛍️ Burrow Shop
+Avoid:
 
-### Item Cost
-- WB only
-- Price set by admin
-
-### Redemption Fee
-**~$0.05 SOL per claim**
-
----
-
-## 🎟️ Wabbit Raffles
-
-### Ticket Cost
-- WB only
-- Price set per raffle by admin
-
-### SOL Fee
-**None**
-
-This is a pure WB mechanic.
+- Guaranteed
+- Profit
+- Investment
+- Passive Income
+- Returns
+- Make Money
 
 ---
 
-## 🌟 Ambassador Page
+## Core Promise
 
-### Fees
-**None**
+The drink is the entry point.
 
-Qualification is based on Collab Score threshold.
+The Wabbit is the key.
 
-Benefits are earned through staking activity and ecosystem participation.
-
----
-
-## 🤝 Community Page
-
-### Fees
-**None**
-
-Users can:
-- Post
-- React
-- Comment
-
-Requirements:
-- Wallet connection
-- Moderated participation
+Together they unlock the ecosystem.
